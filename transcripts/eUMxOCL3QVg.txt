@@ -1,0 +1,25 @@
+[Music]
+our next topic is the polarization of
+electromagnetic waves this is an example
+of a topic that we will discuss in terms
+of plane waves but that is applicable to
+other waves as well polarization is a
+parameter we use to describe the
+behavior of a wave over time
+specifically we look at the time varying
+orientation of the electric field vector
+all plane waves have polarization that
+can be categorized as either linear
+circular or elliptical these names
+describe the figure traced by the tip of
+the electric field vector over time
+viewed on a plane perpendicular to the
+direction of propagation we will look at
+each of these categories in turn the
+first step when determining polarization
+is always to choose an observation plane
+normal to the direction of propagation
+then you can determine polarization by
+plotting the time domain electric field
+and observing the figure traced by the
+tip of the electric field vector
